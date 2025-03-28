@@ -25,15 +25,15 @@ Ensures that sender and receiver are in sync when sending and receiving data.
 Example: Just like a TV remote and TV must be synchronized to work properly.
 
 5️⃣ Transmission Modes
-The Physical Layer decides how data flows between devices:
-Simplex → One-way communication (📻 Example: Radio broadcasting).
-Half-Duplex → Two-way communication, but only one at a time (🎤 Example: Walkie-talkie).
-Full-Duplex → Two-way communication at the same time (📞 Example: Phone call).
+The Physical Layer decides how data flows between devices:\
+Simplex → One-way communication (📻 Example: Radio broadcasting).\
+Half-Duplex → Two-way communication, but only one at a time (🎤 Example: Walkie-talkie).\
+Full-Duplex → Two-way communication at the same time (📞 Example: Phone call).\
 
 6️⃣ Topology and Networking Devices
 
-Defines how devices are connected (Bus, Star, Ring, Mesh, etc.).
-Uses devices like hubs, repeaters, and modems.
+Defines how devices are connected (Bus, Star, Ring, Mesh, etc.).\
+Uses devices like hubs, repeaters, and modems.\
 Example: In an office, computers may be connected using a star topology (all connected to a central switch).
 
 ### Examples of Physical Layer in Daily Life
