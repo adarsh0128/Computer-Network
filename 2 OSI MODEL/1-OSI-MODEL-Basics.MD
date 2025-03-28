@@ -26,3 +26,14 @@ Think of the OSI model like a postal system:
 **Modularity & Scalability** – Helps in designing flexible and expandable networks.
 
 🔧 Example: You can upgrade your Wi-Fi (Layer 1) without changing your applications (Layer 7).
+
+## Real-Life Example of OSI Model
+
+📩 Sending an Email (How OSI Layers Work)
+1️⃣ Physical Layer – Converts data into electrical signals and transmits through a cable.
+2️⃣ Data Link Layer – Ensures error-free data transfer using MAC addresses.
+3️⃣ Network Layer – Adds IP addresses to send data to the correct destination.
+4️⃣ Transport Layer – Splits the email into small packets for delivery.
+5️⃣ Session Layer – Manages the communication session between sender and receiver.
+6️⃣ Presentation Layer – Converts the email into a format that can be displayed on any device.
+7️⃣ Application Layer – The email appears in your Gmail/Outlook inbox.
